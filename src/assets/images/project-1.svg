@@ -1,0 +1,13 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0f172a" />
+      <stop offset="1" stop-color="#0ea5e9" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" rx="40" fill="url(#bg1)" />
+  <circle cx="180" cy="160" r="100" fill="#38bdf8" opacity="0.25" />
+  <circle cx="560" cy="220" r="120" fill="#0ea5e9" opacity="0.22" />
+  <rect x="120" y="280" width="560" height="140" rx="24" fill="#334155" opacity="0.9" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#ffffff" font-family="Inter, sans-serif" font-size="42" letter-spacing="0.02em">Finance Dashboard</text>
+</svg>

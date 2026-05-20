@@ -1,0 +1,14 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0f172a" />
+      <stop offset="1" stop-color="#64748b" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" rx="40" fill="url(#bg3)" />
+  <rect x="140" y="120" width="520" height="240" rx="32" fill="#f8fafc" opacity="0.08" />
+  <line x1="220" y1="190" x2="580" y2="190" stroke="#38bdf8" stroke-width="12" stroke-linecap="round" opacity="0.7" />
+  <line x1="220" y1="250" x2="520" y2="250" stroke="#60a5fa" stroke-width="10" stroke-linecap="round" opacity="0.7" />
+  <circle cx="620" cy="320" r="56" fill="#0ea5e9" opacity="0.25" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#e2e8f0" font-family="Inter, sans-serif" font-size="42" letter-spacing="0.02em">School Portal</text>
+</svg>
